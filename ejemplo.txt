@@ -1,0 +1,24 @@
+main:
+   {else 
+   }
+   while
+   x :: 37
+   Angela : 34.84
+in [34.45E-34] -645.39
+print ("hola") 
+if(23<89){
+   return x=2;
+   integer [2,4,6] function maximal
+   public static void main(string[]){
+      decimal c=10;
+      while(decimal>4)
+      {
+         double y=4+5
+         print("Programa")
+         condition elif (y=9)
+        string c = "compiladores"
+        <-<- 30 .
+        :== procedimiento
+      }
+   }
+}
